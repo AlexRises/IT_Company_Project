@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\bin\Debug\Kursovoy_Proekt.exe.config
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\bin\Debug\Kursovoy_Proekt.exe
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\bin\Debug\Kursovoy_Proekt.pdb
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\obj\Debug\Kursovoy_Proekt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\obj\Debug\Kursovoy_Proekt.exe
+C:\Users\Admin\Desktop\Университет\3 Kurs\C# Patterns\Kursovoy_Proekt\Kursovoy_Proekt\obj\Debug\Kursovoy_Proekt.pdb
