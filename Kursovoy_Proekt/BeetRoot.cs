@@ -27,5 +27,24 @@ namespace Kursovoy_Proekt
         {
             return new Android();
         }
+
+        public override void Start_Design_Development()
+        {
+            Console.WriteLine("We have started Design Development");
+        }
+
+        public override void Start_FrontEnd_Development()
+        {
+            Console.WriteLine("We have started FrontEnd Development");
+        }
+        public override void Start_BackEnd_Development()
+        {
+            Console.WriteLine("We have started BackEnd Development");
+        }
+
+        public override void Start_Mobile_Development()
+        {
+            Console.WriteLine("We have started Mobile Development");
+        }
     }
 }

@@ -12,5 +12,19 @@ namespace Kursovoy_Proekt
         public abstract Front_End Create_Front_End();
         public abstract Back_End Create_Back_End();
         public abstract Mobile Create_Mobile();
+
+        public void TemplateMethod()
+        {
+            Start_Design_Development();
+            Start_FrontEnd_Development();
+            Start_BackEnd_Development();
+            Start_Mobile_Development();
+        }
+
+        public abstract void Start_Design_Development();
+        public abstract void Start_FrontEnd_Development();
+        public abstract void Start_BackEnd_Development();
+        public abstract void Start_Mobile_Development();
+
     }
 }

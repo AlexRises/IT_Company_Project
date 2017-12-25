@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-    public abstract class Attract_Group:IT_Company_Factory
+    public class Attract_Group:IT_Company_Factory
     {
         public override Design Create_Design()
         {
@@ -26,6 +26,25 @@ namespace Kursovoy_Proekt
         public override Mobile Create_Mobile()
         {
             return new iOS();
+        }
+
+        public override void Start_Design_Development()
+        {
+            Console.WriteLine("We have started Design Development");
+        }
+
+        public override void Start_FrontEnd_Development()
+        {
+            Console.WriteLine("We have started FrontEnd Development");
+        }
+        public override void Start_BackEnd_Development()
+        {
+            Console.WriteLine("We have started BackEnd Development");
+        }
+
+        public override void Start_Mobile_Development()
+        {
+            Console.WriteLine("We have started Mobile Development");
         }
     }
 }
