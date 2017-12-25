@@ -8,9 +8,14 @@ namespace Kursovoy_Proekt
 {
     public class Android : Mobile
     {
-        public void Develop_Android()
+        public override void Develop_Android()
         {
-            Console.WriteLine("We can develop mobile app for Android using Java");
+            Console.WriteLine("We can develop mobile app for Android");
+        }
+
+        public override void Develop_iOS()
+        {
+            Console.WriteLine("We can't develop mobile app for iOS");
         }
     }
 }

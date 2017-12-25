@@ -8,9 +8,14 @@ namespace Kursovoy_Proekt
 {
    public class PHP : Back_End
     {
-        public void Develop_PHP()
+        public override void Develop_PHP()
         {
             Console.WriteLine("We can develop BackEnd on PHP");
+        }
+
+        public override void Develop_Python()
+        {
+            Console.WriteLine("We can develop BackEnd on Python");
         }
     }
 }

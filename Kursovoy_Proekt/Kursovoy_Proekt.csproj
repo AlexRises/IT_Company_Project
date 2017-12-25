@@ -59,6 +59,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Python.cs" />
+    <Compile Include="Requese_For_Attract_Group.cs" />
     <Compile Include="Request_For_BeetRoot.cs" />
     <Compile Include="VueJS.cs" />
   </ItemGroup>

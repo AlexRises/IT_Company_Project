@@ -25,6 +25,19 @@ namespace Kursovoy_Proekt
         {
             BeetRoot_Design.Develop_Photoshop_Design();
         }
-            
+        
+        public void Request_For_Development_FrontEnd()
+        {
+            BeetRoot_FrontEnd.Develop_AngularJS();
+        }
+
+        public void Request_For_Development_BackEnd()
+        {
+            BeetRoot_BackEnd.Develop_Python();
+        }
+        public void Request_For_Development_Mobile()
+        {
+            BeetRoot_Mobile.Develop_Android();
+        }
     }
 }
