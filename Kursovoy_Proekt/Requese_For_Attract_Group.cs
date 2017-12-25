@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-   public abstract class Design
+    class Requese_For_Attract_Group
     {
-        public abstract void Develop_Photoshop_Design();
-        public abstract void Develop_Photoshop_Illustator_Design();
-
     }
 }
-
