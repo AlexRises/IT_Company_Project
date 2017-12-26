@@ -12,11 +12,6 @@ namespace Kursovoy_Proekt
         {
             Console.WriteLine("We can develop Design in Photoshop");
         }
-
-        public override void Develop_Photoshop_Illustator_Design()
-        {
-            Console.WriteLine("We don't develop Design both in Photoshop and Illustrator");
-        }
     }
 }
     

@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-    public abstract class Front_End
+    public abstract class Back_End_2
     {
-        
-        public abstract void Develop_AngularJS();
+        public abstract void Develop_PHP();
     }
 }

@@ -47,12 +47,16 @@
     <Compile Include="AngularJS.cs" />
     <Compile Include="Attract_Group.cs" />
     <Compile Include="Back_End.cs" />
+    <Compile Include="Back_End_2.cs" />
     <Compile Include="BeetRoot.cs" />
     <Compile Include="Design.cs" />
+    <Compile Include="Design_2.cs" />
     <Compile Include="Front_End.cs" />
+    <Compile Include="Front_End_2.cs" />
     <Compile Include="iOS.cs" />
     <Compile Include="IT_Company_Factory.cs" />
     <Compile Include="Mobile.cs" />
+    <Compile Include="Mobile_2.cs" />
     <Compile Include="Photoshop_Design.cs" />
     <Compile Include="Photoshop_Illustator_Design.cs" />
     <Compile Include="PHP.cs" />

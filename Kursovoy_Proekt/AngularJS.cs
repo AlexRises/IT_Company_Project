@@ -13,9 +13,5 @@ namespace Kursovoy_Proekt
             Console.WriteLine("We can develop FrontEnd on AngularJS");
         }
 
-        public override void Develop_VueJS()
-        {
-            Console.WriteLine("We can't develop FrontEnd on VueJS");
-        }
     }
 }

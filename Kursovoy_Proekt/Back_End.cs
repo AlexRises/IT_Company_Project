@@ -9,6 +9,6 @@ namespace Kursovoy_Proekt
    public abstract class Back_End
     {
         public abstract void Develop_Python();
-        public abstract void Develop_PHP();
+       
     }
 }

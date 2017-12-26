@@ -13,9 +13,6 @@ namespace Kursovoy_Proekt
             Console.WriteLine("We can develop mobile app for Android");
         }
 
-        public override void Develop_iOS()
-        {
-            Console.WriteLine("We can't develop mobile app for iOS");
-        }
+       
     }
 }

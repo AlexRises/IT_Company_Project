@@ -9,7 +9,7 @@ namespace Kursovoy_Proekt
    public abstract class Design
     {
         public abstract void Develop_Photoshop_Design();
-        public abstract void Develop_Photoshop_Illustator_Design();
+        
 
     }
 }
