@@ -8,6 +8,7 @@ namespace Kursovoy_Proekt
 {
     public class Attract_Group:IT_Company_Factory
     {
+
         public override Design_2 Create_Design_2()
         {
             return new Photoshop_Illustator_Design();

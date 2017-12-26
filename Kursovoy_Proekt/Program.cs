@@ -13,8 +13,8 @@ namespace Kursovoy_Proekt
         static void Main(string[] args)
         {
             Console.WriteLine("Let's Start");
-
             
+
             Request_For_Attract_Group Client2 = null;
             BeetRoot BeetRoot_Company = new BeetRoot();
             Attract_Group Attract_Group_Company = new Attract_Group();
@@ -30,7 +30,8 @@ namespace Kursovoy_Proekt
 
             do
             {
-                Console.WriteLine("Choose cafe you want to visit");
+                
+                Console.WriteLine("Choose company you would like to visit");
                 Console.WriteLine("1) Beetroot\t\t2) Attract Group");
                 Console.WriteLine("0) Remove the project ");
                 chosenCompany = Console.ReadLine();

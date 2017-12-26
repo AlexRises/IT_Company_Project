@@ -8,11 +8,24 @@ namespace Kursovoy_Proekt
 {
     public class Request_For_Attract_Group : Swtich_To_Python
     {
+        /*List<object> list_1 = new List<object>()
+        {
+           Attract_Group_Design_Ex,
+           Attract_Group_FrontEnd_Ex,
+           Attract_Group_BackEnd_Ex,
+           Attract_Group_BackEnd_2_Ex,
+           Attract_Group_Mobile_Ex
+        };
+        list_1.Count();*/
+        
+
         Design_2 Attract_Group_Design_2;
         Front_End_2 Attract_Group_FrontEnd_2;
         Back_End Attract_Group_BackEnd;
         Back_End_2 Attract_Group_BackEnd_2;
         Mobile_2 Attract_Group_Mobile_2;
+
+        int technologies = 5;
 
         public Request_For_Attract_Group(IT_Company_Factory request)
         {
@@ -21,6 +34,11 @@ namespace Kursovoy_Proekt
             Attract_Group_BackEnd_2 = request.Create_Back_End_2();
             Attract_Group_Mobile_2 = request.Create_Mobile_2();
             Attract_Group_BackEnd = request.Create_Back_End();
+        }
+
+        public int Technologies_Company_Develop()
+        {
+            return this.technologies;
         }
 
         public void Request_For_Development_Design()
@@ -98,6 +116,8 @@ namespace Kursovoy_Proekt
 
         int price_for_iOS = 8800;
         int execution_time_for_iOS_in_hours = 250;
+      
+
         public int Get_Price_For_App_Development_on_iOS()
         {
             return this.price_for_iOS;
