@@ -65,6 +65,7 @@
     <Compile Include="Python.cs" />
     <Compile Include="Request_For_Attract_Group.cs" />
     <Compile Include="Request_For_BeetRoot.cs" />
+    <Compile Include="Swtich_To_Python.cs" />
     <Compile Include="VueJS.cs" />
   </ItemGroup>
   <ItemGroup>

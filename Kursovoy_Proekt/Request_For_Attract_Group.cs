@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-    public class Request_For_Attract_Group
+    public class Request_For_Attract_Group : Swtich_To_Python
     {
         Design_2 Attract_Group_Design_2;
         Front_End_2 Attract_Group_FrontEnd_2;
@@ -46,7 +46,73 @@ namespace Kursovoy_Proekt
         {
             Attract_Group_Mobile_2.Develop_iOS();
         }
+        /*Price and Execution*/
 
+        int price_for_design = 700;
+        int execution_time_for_design_in_hours = 30;
+
+        public int Get_Price_For_Design()
+        {
+            return this.price_for_design;
+        }
+        public int Get_Execution_Time_For_Design_in_Hours()
+        {
+            return this.execution_time_for_design_in_hours;
+        }
+
+        int price_for_FrontEnd = 3500;
+        int execution_time_for_frontend_in_hours = 120;
+
+        public int Get_Price_For_FrontEnd()
+        {
+            return this.price_for_FrontEnd;
+        }
+        public int Get_Execution_Time_For_FrontEnd_in_Hours()
+        {
+            return this.execution_time_for_frontend_in_hours;
+        }
+
+        int price_for_Python = 4700;
+        int execution_time_for_Python_in_hours = 150;
+
+        public int Get_Price_For_BackEnd_Python()
+        {
+            return this.price_for_Python;
+        }
+        public int Get_Execution_Time_For_Python_in_Hours()
+        {
+            return this.execution_time_for_Python_in_hours;
+        }
+
+        int price_for_PHP = 3100;
+        int execution_time_for_PHP_in_hours = 210;
+
+        public int Get_Price_For_BackEnd_PHP()
+        {
+            return this.price_for_PHP;
+        }
+        public int Get_Execution_Time_For_PHP_in_Hours()
+        {
+            return this.execution_time_for_PHP_in_hours;
+        }
+
+        int price_for_iOS = 8800;
+        int execution_time_for_iOS_in_hours = 250;
+        public int Get_Price_For_App_Development_on_iOS()
+        {
+            return this.price_for_iOS;
+        }
+        public int Get_Execution_Time_For_iOS_in_Hours()
+        {
+            return this.execution_time_for_iOS_in_hours;
+        }
+
+        public void Switch_The_Technology()
+        {
+            Attract_Group_BackEnd.Develop_Python();
+        }
 
     }
+
 }
+

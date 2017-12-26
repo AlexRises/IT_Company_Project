@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_AngularJS()
         {
-            Console.WriteLine("We can develop FrontEnd on AngularJS");
+            Console.WriteLine("Develop FrontEnd on AngularJS");
         }
 
         

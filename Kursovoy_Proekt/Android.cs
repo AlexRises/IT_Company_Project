@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_Android()
         {
-            Console.WriteLine("We can develop mobile app for Android");
+            Console.WriteLine("Develop mobile app for Android");
         }
 
        

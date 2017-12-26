@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_Python()
         {
-            Console.WriteLine("We can develop BackEnd on Python");
+            Console.WriteLine("Develop BackEnd on Python");
         }
     }
 }

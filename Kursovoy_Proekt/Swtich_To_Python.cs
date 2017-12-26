@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-   public class VueJS:Front_End_2
+   public interface Swtich_To_Python
     {
-        public override void Develop_VueJS()
-        {
-            Console.WriteLine("Develop FrontEnd on VueJS");
-        }
-
+         void Switch_The_Technology();
     }
 }

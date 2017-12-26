@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_PHP()
         {
-            Console.WriteLine("We can develop BackEnd on PHP");
+            Console.WriteLine("Develop BackEnd on PHP");
         }
     }
 }

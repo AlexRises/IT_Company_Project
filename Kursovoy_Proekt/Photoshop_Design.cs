@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_Photoshop_Design()
         {
-            Console.WriteLine("We can develop Design in Photoshop");
+            Console.WriteLine("Develop Design in Photoshop");
         }
 
     }

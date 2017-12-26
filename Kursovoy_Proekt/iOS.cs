@@ -10,7 +10,7 @@ namespace Kursovoy_Proekt
     {
         public override void Develop_iOS()
         {
-            Console.WriteLine("We can develop an app for iOS");
+            Console.WriteLine("Develop an app for iOS");
         }
 
      
