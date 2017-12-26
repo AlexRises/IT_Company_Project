@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursovoy_Proekt.Request_For_Attract_Group">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ByAFAECBCBgIAAAAIQAAAAASAAiAIAgIAACMBgBQAkA=</HashCode>
+      <FileName>Request_For_Attract_Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Make_Python_Instead_of_PHP">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Make_Python_Instead_of_PHP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

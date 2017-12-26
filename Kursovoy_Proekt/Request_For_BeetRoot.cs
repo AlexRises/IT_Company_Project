@@ -25,7 +25,7 @@ namespace Kursovoy_Proekt
         {
             BeetRoot_Design.Develop_Photoshop_Design();
         }
-        
+
         public void Request_For_Development_FrontEnd()
         {
             BeetRoot_FrontEnd.Develop_AngularJS();
@@ -86,7 +86,7 @@ namespace Kursovoy_Proekt
             return this.execution_time_for_Android_in_hours;
         }
 
-       
+
 
     }
 }

@@ -18,7 +18,7 @@ namespace UnitTestProject1
             pr_php += price_PHP.Get_Price_For_BackEnd_PHP();
 
 
-            Assert.AreNotEqual(pr_py, pr_php);
+            Assert.AreEqual(pr_py, pr_php);
         }
     }
 }

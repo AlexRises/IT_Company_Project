@@ -53,8 +53,10 @@
     <Compile Include="Design_2.cs" />
     <Compile Include="Front_End.cs" />
     <Compile Include="Front_End_2.cs" />
+    <Compile Include="Switch_The _Python.cs" />
     <Compile Include="iOS.cs" />
     <Compile Include="IT_Company_Factory.cs" />
+    <Compile Include="Make_Python_Instead_of_PHP.cs" />
     <Compile Include="Mobile.cs" />
     <Compile Include="Mobile_2.cs" />
     <Compile Include="Photoshop_Design.cs" />
@@ -65,11 +67,14 @@
     <Compile Include="Python.cs" />
     <Compile Include="Request_For_Attract_Group.cs" />
     <Compile Include="Request_For_BeetRoot.cs" />
-    <Compile Include="Swtich_To_Python.cs" />
     <Compile Include="VueJS.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="ClassDiagram4.cd" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BeetRoot\" />

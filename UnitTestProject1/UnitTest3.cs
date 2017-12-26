@@ -18,7 +18,7 @@ namespace UnitTestProject1
             time_php += price_PHP.Get_Execution_Time_For_PHP_in_Hours();
 
 
-            Assert.AreNotEqual(time_py, time_php);
+            Assert.AreEqual(time_py, time_php);
         }
     }
 }

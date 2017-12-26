@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-   public interface Swtich_To_Python
+    public interface Switch_The_Python
     {
-         void Switch_The_Technology();
+        void Switch1();
     }
 }

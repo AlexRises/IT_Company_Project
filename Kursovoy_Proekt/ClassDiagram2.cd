@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursovoy_Proekt.Request_For_Attract_Group">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ByAFAECACAgIAAAAIQAAAAASAAiAIAgIAACMBgBQAkA=</HashCode>
+      <FileName>Request_For_Attract_Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Request_For_BeetRoot">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BqCEAEAACAAIABAAAAgAAABwAAoAAAAIAACMAABAEEA=</HashCode>
+      <FileName>Request_For_BeetRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.IT_Company_Factory">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCCAACAABAEAAEECEAAAAAAAAAAaAAABAAABEAAAAA=</HashCode>
+      <FileName>IT_Company_Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.BeetRoot" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCCAACAAAAEAAEECEAAAAAAAAAAaAAABAAABEAAAAA=</HashCode>
+      <FileName>BeetRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Attract_Group" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCCAACAAAAEAAEECEAAAAAAAAAAaAAABAAABEAAAAA=</HashCode>
+      <FileName>Attract_Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Back_End">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Back_End.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Back_End_2">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Back_End_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Design">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Design.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Design_2">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Design_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Front_End">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Front_End.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Front_End_2">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Front_End_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Mobile">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Mobile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Mobile_2">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Mobile_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.AngularJS">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AngularJS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Android">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Android.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.iOS">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>iOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.PHP">
+    <Position X="9.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>PHP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Python">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Python.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.VueJS">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VueJS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Photoshop_Design">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Photoshop_Design.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovoy_Proekt.Photoshop_Illustator_Design">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Photoshop_Illustator_Design.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
