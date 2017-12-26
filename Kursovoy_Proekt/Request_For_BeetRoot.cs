@@ -39,5 +39,19 @@ namespace Kursovoy_Proekt
         {
             BeetRoot_Mobile.Develop_Android();
         }
+
+        int price_for_design = 500;
+
+        public int Get_Price_For_Design()
+        {
+            return this.price_for_design;
+        }
+
+        int price_for_FrontEnd = 2500;
+
+        public int Get_Price_For_FrontEnd()
+        {
+            return this.price_for_FrontEnd;
+        }
     }
 }

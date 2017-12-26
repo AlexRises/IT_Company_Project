@@ -12,6 +12,7 @@ namespace Kursovoy_Proekt
         {
             Console.WriteLine("We can develop Design in Photoshop");
         }
+
     }
 }
     

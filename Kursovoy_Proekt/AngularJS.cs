@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace Kursovoy_Proekt
 {
-   public class AngularJS : Front_End
+    public class AngularJS : Front_End
     {
         public override void Develop_AngularJS()
         {
             Console.WriteLine("We can develop FrontEnd on AngularJS");
         }
+
+        
 
     }
 }
